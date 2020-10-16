@@ -1,0 +1,1 @@
+declare module "*.png" //não dar erro ao importar png
